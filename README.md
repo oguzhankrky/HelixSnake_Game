@@ -1,5 +1,5 @@
 
-
+# Project Purpose
 The goal of the project is to develop a snake game version which can generate amino acids’ codons.
 
 # General Information
