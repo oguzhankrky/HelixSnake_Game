@@ -11,7 +11,7 @@ There are twenty amino acids found in proteins. Amino acids are represented with
 # Requirements
 ● “aminoacids.txt” text file 
 
-● EnigmaConsole.jar
+● EnigmaConsole jar file (In Enigma folder)
 
 
 
