@@ -1,4 +1,5 @@
 
+
 The goal of the project is to develop a snake game version which can generate amino acids’ codons.
 
 # General Information
@@ -8,8 +9,9 @@ There are twenty amino acids found in proteins. Amino acids are represented with
 
 
 # Requirements
-“aminoacids.txt” text file 
- EnigmaConsole.jar
+● “aminoacids.txt” text file 
+
+● EnigmaConsole.jar
 
 
 
